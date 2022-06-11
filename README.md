@@ -1,0 +1,2 @@
+# pymumu
+luci for smartdns
